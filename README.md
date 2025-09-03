@@ -80,7 +80,7 @@ How to use your project.
 ```bash
 After the above process
 ```
-![image](https://github.com/vibhor121/MasaiMovies/assets/screenshot.png)
+
 
 
 ## Credentials
@@ -93,39 +93,7 @@ https://github.com/vibhor121/MasaiMovies.git
 Happy Coding
 ```
 
-## Glimpse of our project
 
-### 🎬 Main Movie Browsing Interface
-![Main Interface](https://github.com/vibhor121/MasaiMovies/assets/main-interface.png)
-*Dark-themed movie browsing interface with genre/language filters, featured movie banner, and movie grid*
-
-### 👤 User Profile Page
-![User Profile](https://github.com/vibhor121/MasaiMovies/assets/user-profile.png)
-*Clean user profile interface showing user details, edit profile, and logout options*
-
-### 🏠 Homepage with Featured Content
-![Homepage](https://github.com/vibhor121/MasaiMovies/assets/homepage.png)
-*Homepage featuring "Kingdom of the Planet of the Apes" with movie carousels and top-rated sections*
-
-### 🎫 Seat Booking System
-![Seat Booking](https://github.com/vibhor121/MasaiMovies/assets/seat-booking.png)
-*Interactive seat selection interface with date/time selection and booking confirmation*
-
-### 📽️ Movie Details Page
-![Movie Details](https://github.com/vibhor121/MasaiMovies/assets/movie-details.png)
-*Detailed movie information page for "The Godfather" with synopsis, cast, and trailer sections*
-
-### 🎭 Movie Information Display
-![Movie Info](https://github.com/vibhor121/MasaiMovies/assets/movie-info.png)
-*Comprehensive movie details with poster, ratings, genre, and starring cast information*
-
-### 📊 Top Rated & Trending Movies
-![Top Movies](https://github.com/vibhor121/MasaiMovies/assets/top-movies.png)
-*Sections showcasing top-rated movies and weekly trending films with ratings and release dates*
-
-### 🔐 User Registration
-![Signup Page](https://github.com/vibhor121/MasaiMovies/assets/signup.png)
-*User registration form with movie-themed background elements and validation*
 
 
 
